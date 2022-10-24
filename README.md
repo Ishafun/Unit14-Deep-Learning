@@ -16,9 +16,9 @@ I did:
 - - -
 This done by doing an analysis using jupyter lab on:
 
-[Closing Prices Starter Notebook]([Starter_Code/lstm_stock_predictor_closing.ipynb])
+[Closing Prices Starter Notebook]([[Starter_Code/lstm_stock_predictor_closing.ipynb]](https://github.com/Ishafun/Unit14-Deep-Learning/blob/main/Starter_Code/lstm_stock_predictor_closing.ipynb))
 
-[FNG Starter Notebook](Starter_Code/lstm_stock_predictor_fng.ipynb)
+[FNG Starter Notebook]([Starter_Code/lstm_stock_predictor_fng.ipynb](https://github.com/Ishafun/Unit14-Deep-Learning/blob/main/Starter_Code/lstm_stock_predictor_fng.ipynb))
 
 - - -
 
